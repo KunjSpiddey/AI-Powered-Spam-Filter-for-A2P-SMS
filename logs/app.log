@@ -1,0 +1,419 @@
+2025-09-01 01:52:48,144 - app.main - INFO - Dashboard SMS Classification: 'get 50% off at dominos...'
+2025-09-01 01:52:48,155 - app.main - INFO - Dashboard Result: spam (confidence: 0.553)
+2025-09-01 01:53:03,077 - app.main - INFO - Dashboard SMS Classification: 'get 50% off at dominos...'
+2025-09-01 01:53:03,081 - app.main - INFO - Dashboard Result: spam (confidence: 0.553)
+2025-09-01 01:53:04,766 - app.main - INFO - Dashboard SMS Classification: 'get 50% off at dominos...'
+2025-09-01 01:53:04,773 - app.main - INFO - Dashboard Result: spam (confidence: 0.553)
+2025-09-01 01:54:50,642 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:54:50,647 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:55:07,050 - app.main - INFO - Feedback received: {'message': 'Get 50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'promotional', 'confidence': 0.44636183906643195}
+2025-09-01 01:55:07,051 - app.main - INFO - Processing feedback - Message: 'Get 50% off at dominos...', Predicted: transactional, Actual: promotional
+2025-09-01 01:55:07,127 - app.main - INFO - Learning update: 12 total feedback
+2025-09-01 01:55:12,352 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:55:12,358 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:55:14,090 - app.main - INFO - Feedback received: {'message': 'Get 50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'promotional', 'confidence': 0.44636183906643195}
+2025-09-01 01:55:14,091 - app.main - INFO - Processing feedback - Message: 'Get 50% off at dominos...', Predicted: transactional, Actual: promotional
+2025-09-01 01:55:14,177 - app.main - INFO - Learning update: 13 total feedback
+2025-09-01 01:55:34,693 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:55:34,698 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:57:11,716 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:57:11,722 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:58:18,843 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:58:18,848 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:58:32,629 - app.main - INFO - Feedback received: {'message': 'Get 50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'spam', 'confidence': 0.44636183906643195}
+2025-09-01 01:58:32,630 - app.main - INFO - Processing feedback - Message: 'Get 50% off at dominos...', Predicted: transactional, Actual: spam
+2025-09-01 01:58:32,705 - app.main - INFO - Learning update: 14 total feedback
+2025-09-01 01:58:35,810 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:58:35,820 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:58:37,500 - app.main - INFO - Feedback received: {'message': 'Get 50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'spam', 'confidence': 0.44636183906643195}
+2025-09-01 01:58:37,501 - app.main - INFO - Processing feedback - Message: 'Get 50% off at dominos...', Predicted: transactional, Actual: spam
+2025-09-01 01:58:37,668 - app.main - INFO - Learning update: 15 total feedback
+2025-09-01 01:58:38,404 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:58:38,412 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:58:39,894 - app.main - INFO - Feedback received: {'message': 'Get 50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'spam', 'confidence': 0.44636183906643195}
+2025-09-01 01:58:39,895 - app.main - INFO - Processing feedback - Message: 'Get 50% off at dominos...', Predicted: transactional, Actual: spam
+2025-09-01 01:58:40,037 - app.main - INFO - Learning update: 16 total feedback
+2025-09-01 01:58:40,465 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:58:40,473 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 01:58:42,595 - app.main - INFO - Feedback received: {'message': 'Get 50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'spam', 'confidence': 0.44636183906643195}
+2025-09-01 01:58:42,596 - app.main - INFO - Processing feedback - Message: 'Get 50% off at dominos...', Predicted: transactional, Actual: spam
+2025-09-01 01:58:42,749 - app.main - INFO - Learning update: 17 total feedback
+2025-09-01 01:58:43,429 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 01:58:43,435 - app.main - INFO - Dashboard Result: transactional (confidence: 0.446)
+2025-09-01 02:05:02,171 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 02:05:02,178 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:06:05,557 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at dominos...'
+2025-09-01 02:06:05,560 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:06:08,001 - app.main - INFO - Feedback received: {'message': 'Get 50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'promotional', 'confidence': 0}
+2025-09-01 02:06:08,002 - app.main - INFO - Processing feedback - Message: 'Get 50% off at dominos...', Predicted: transactional, Actual: promotional
+2025-09-01 02:06:08,160 - app.main - INFO - Feedback processed successfully: {'total_feedback_received': 19, 'feedback_processed': True, 'patterns_learned': 1, 'correction_type': 'correction', 'learned_safe_patterns': 0, 'learned_spam_patterns': 0, 'auto_whitelisted_domains': 0, 'auto_whitelisted_phrases': 0, 'recent_learning': {'auto_whitelists_added': 0, 'last_updated': '2025-09-01T02:06:08.123117', 'patterns_learned': 0, 'total_feedback': 19}, 'examples': {'safe_patterns': [], 'spam_patterns': [], 'whitelisted_domains': [], 'whitelisted_phrases': []}}
+2025-09-01 02:06:49,602 - app.main - INFO - Dashboard SMS Classification: 'Get  50% off at dominos...'
+2025-09-01 02:06:49,608 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:07:32,698 - app.main - INFO - Feedback received: {'message': 'Get  50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'promotional', 'confidence': 0}
+2025-09-01 02:07:32,699 - app.main - INFO - Processing feedback - Message: 'Get  50% off at dominos...', Predicted: transactional, Actual: promotional
+2025-09-01 02:07:32,839 - app.main - INFO - Feedback processed successfully: {'total_feedback_received': 21, 'feedback_processed': True, 'patterns_learned': 1, 'correction_type': 'correction', 'learned_safe_patterns': 0, 'learned_spam_patterns': 0, 'auto_whitelisted_domains': 0, 'auto_whitelisted_phrases': 0, 'recent_learning': {'auto_whitelists_added': 0, 'last_updated': '2025-09-01T02:07:32.813758', 'patterns_learned': 0, 'total_feedback': 21}, 'examples': {'safe_patterns': [], 'spam_patterns': [], 'whitelisted_domains': [], 'whitelisted_phrases': []}}
+2025-09-01 02:07:36,128 - app.main - INFO - Dashboard SMS Classification: 'Get  50% off at dominos...'
+2025-09-01 02:07:36,134 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:07:37,282 - app.main - INFO - Feedback received: {'message': 'Get  50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'promotional', 'confidence': 0}
+2025-09-01 02:07:37,282 - app.main - INFO - Processing feedback - Message: 'Get  50% off at dominos...', Predicted: transactional, Actual: promotional
+2025-09-01 02:07:37,474 - app.main - INFO - Feedback processed successfully: {'total_feedback_received': 23, 'feedback_processed': True, 'patterns_learned': 1, 'correction_type': 'correction', 'learned_safe_patterns': 0, 'learned_spam_patterns': 0, 'auto_whitelisted_domains': 0, 'auto_whitelisted_phrases': 0, 'recent_learning': {'auto_whitelists_added': 0, 'last_updated': '2025-09-01T02:07:37.427770', 'patterns_learned': 0, 'total_feedback': 23}, 'examples': {'safe_patterns': [], 'spam_patterns': [], 'whitelisted_domains': [], 'whitelisted_phrases': []}}
+2025-09-01 02:07:38,083 - app.main - INFO - Dashboard SMS Classification: 'Get  50% off at dominos...'
+2025-09-01 02:07:38,087 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:07:39,125 - app.main - INFO - Feedback received: {'message': 'Get  50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'promotional', 'confidence': 0}
+2025-09-01 02:07:39,125 - app.main - INFO - Processing feedback - Message: 'Get  50% off at dominos...', Predicted: transactional, Actual: promotional
+2025-09-01 02:07:39,313 - app.main - INFO - Feedback processed successfully: {'total_feedback_received': 25, 'feedback_processed': True, 'patterns_learned': 1, 'correction_type': 'correction', 'learned_safe_patterns': 0, 'learned_spam_patterns': 0, 'auto_whitelisted_domains': 0, 'auto_whitelisted_phrases': 0, 'recent_learning': {'auto_whitelists_added': 0, 'last_updated': '2025-09-01T02:07:39.285041', 'patterns_learned': 0, 'total_feedback': 25}, 'examples': {'safe_patterns': [], 'spam_patterns': [], 'whitelisted_domains': [], 'whitelisted_phrases': []}}
+2025-09-01 02:07:40,658 - app.main - INFO - Dashboard SMS Classification: 'Get  50% off at dominos...'
+2025-09-01 02:07:40,663 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:07:47,015 - app.main - INFO - Dashboard SMS Classification: 'Get  50% off at dominos...'
+2025-09-01 02:07:47,021 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:07:48,065 - app.main - INFO - Feedback received: {'message': 'Get  50% off at dominos', 'predicted_category': 'transactional', 'actual_category': 'transactional', 'confidence': 0}
+2025-09-01 02:07:48,066 - app.main - INFO - Processing feedback - Message: 'Get  50% off at dominos...', Predicted: transactional, Actual: transactional
+2025-09-01 02:07:48,222 - app.main - INFO - Feedback processed successfully: {'total_feedback_received': 27, 'feedback_processed': True, 'patterns_learned': 1, 'correction_type': 'correct', 'learned_safe_patterns': 0, 'learned_spam_patterns': 0, 'auto_whitelisted_domains': 0, 'auto_whitelisted_phrases': 0, 'recent_learning': {'auto_whitelists_added': 0, 'last_updated': '2025-09-01T02:07:48.200120', 'patterns_learned': 0, 'total_feedback': 27}, 'examples': {'safe_patterns': [], 'spam_patterns': [], 'whitelisted_domains': [], 'whitelisted_phrases': []}}
+2025-09-01 02:09:14,771 - app.main - INFO - Dashboard SMS Classification: 'Get 50% off at Udemy...'
+2025-09-01 02:09:14,785 - app.main - INFO - Dashboard Result: transactional (confidence: 0.000) - ai_error_or_unclassified
+2025-09-01 02:13:10,912 - app.main - INFO - Stats requested: {'spam_count': 0, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 27, 'accuracy': 0.0}
+2025-09-01 02:13:59,551 - app.main - INFO - Stats requested: {'spam_count': 0, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 27, 'accuracy': 0.0}
+2025-09-01 02:14:08,132 - app.main - INFO - Stats requested: {'spam_count': 0, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 27, 'accuracy': 0.0}
+2025-09-01 02:14:09,453 - app.main - INFO - Stats requested: {'spam_count': 0, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 27, 'accuracy': 0.0}
+2025-09-01 02:14:28,474 - app.main - INFO - SMS Classification Request: 'get 50% off at dominoz...'
+2025-09-01 02:14:28,475 - app.main - INFO - Result: promotional (confidence: 0.950) - Marketing/promotional content
+2025-09-01 02:14:39,404 - app.main - INFO - Stats requested: {'spam_count': 0, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 27, 'accuracy': 0.0}
+2025-09-01 02:15:09,725 - app.main - INFO - Stats requested: {'spam_count': 0, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 27, 'accuracy': 0.0}
+2025-09-01 02:15:09,933 - app.main - INFO - SMS Classification Request: 'Get the job offer at Google, by clicking at the li...'
+2025-09-01 02:15:09,934 - app.main - INFO - Result: promotional (confidence: 0.667) - Commercial business communication
+2025-09-01 02:15:13,917 - app.main - INFO - SMS Classification Request: 'Get the job offer at Google, by clicking at the li...'
+2025-09-01 02:15:13,917 - app.main - INFO - Result: promotional (confidence: 0.667) - Commercial business communication
+2025-09-01 02:15:15,173 - app.main - INFO - Feedback received - Message: 'Get the job offer at Google, by clicking at the li...', Predicted: promotional, Actual: spam
+2025-09-01 02:15:17,777 - app.main - INFO - SMS Classification Request: 'Get the job offer at Google, by clicking at the li...'
+2025-09-01 02:15:17,777 - app.main - INFO - Result: spam (confidence: 0.556) - Multiple spam indicators found
+2025-09-01 02:15:18,264 - app.main - INFO - Stats requested: {'spam_count': 1, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 28, 'accuracy': 0.0}
+2025-09-01 02:15:22,953 - app.main - INFO - SMS Classification Request: 'Get the job offer at Google, by clicking at the li...'
+2025-09-01 02:15:22,954 - app.main - INFO - Result: spam (confidence: 0.556) - Multiple spam indicators found
+2025-09-01 02:15:25,530 - app.main - INFO - Feedback received - Message: 'Get the job offer at Google, by clicking at the li...', Predicted: spam, Actual: spam
+2025-09-01 02:15:28,609 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 29, 'accuracy': 0.034482758620689655}
+2025-09-01 02:15:39,402 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 29, 'accuracy': 0.034482758620689655}
+2025-09-01 02:15:40,733 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 0, 'promotional_count': 0, 'total_classified': 29, 'accuracy': 0.034482758620689655}
+2025-09-01 02:15:52,801 - app.main - INFO - SMS Classification Request: 'get 56% off at fdh...'
+2025-09-01 02:15:52,801 - app.main - INFO - Result: promotional (confidence: 0.950) - Marketing/promotional content
+2025-09-01 02:15:54,735 - app.main - INFO - Feedback received - Message: 'get 56% off at fdh...', Predicted: promotional, Actual: promotional
+2025-09-01 02:15:56,696 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 0, 'promotional_count': 1, 'total_classified': 30, 'accuracy': 0.06666666666666667}
+2025-09-01 02:16:12,019 - app.main - INFO - SMS Classification Request: 'your otp is 398473...'
+2025-09-01 02:16:12,020 - app.main - INFO - Result: transactional (confidence: 0.833) - OTP/verification message detected
+2025-09-01 02:16:13,427 - app.main - INFO - Feedback received - Message: 'your otp is 398473...', Predicted: transactional, Actual: transactional
+2025-09-01 02:16:14,566 - app.main - INFO - SMS Classification Request: 'your otp is 398473...'
+2025-09-01 02:16:14,567 - app.main - INFO - Result: transactional (confidence: 0.857) - OTP/verification message detected
+2025-09-01 02:16:15,169 - app.main - INFO - Feedback received - Message: 'your otp is 398473...', Predicted: transactional, Actual: transactional
+2025-09-01 02:16:15,753 - app.main - INFO - SMS Classification Request: 'your otp is 398473...'
+2025-09-01 02:16:15,753 - app.main - INFO - Result: transactional (confidence: 0.857) - OTP/verification message detected
+2025-09-01 02:16:16,247 - app.main - INFO - Feedback received - Message: 'your otp is 398473...', Predicted: transactional, Actual: transactional
+2025-09-01 02:16:16,513 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 3, 'promotional_count': 1, 'total_classified': 33, 'accuracy': 0.15151515151515152}
+2025-09-01 02:16:16,794 - app.main - INFO - SMS Classification Request: 'your otp is 398473...'
+2025-09-01 02:16:16,794 - app.main - INFO - Result: transactional (confidence: 0.857) - OTP/verification message detected
+2025-09-01 02:16:17,558 - app.main - INFO - Feedback received - Message: 'your otp is 398473...', Predicted: transactional, Actual: transactional
+2025-09-01 02:16:18,181 - app.main - INFO - SMS Classification Request: 'your otp is 398473...'
+2025-09-01 02:16:18,181 - app.main - INFO - Result: transactional (confidence: 0.857) - OTP/verification message detected
+2025-09-01 02:16:18,314 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 4, 'promotional_count': 1, 'total_classified': 34, 'accuracy': 0.17647058823529413}
+2025-09-01 02:16:18,916 - app.main - INFO - Feedback received - Message: 'your otp is 398473...', Predicted: transactional, Actual: transactional
+2025-09-01 02:16:19,420 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 5, 'promotional_count': 1, 'total_classified': 35, 'accuracy': 0.2}
+2025-09-01 02:16:19,790 - app.main - INFO - SMS Classification Request: 'your otp is 398473...'
+2025-09-01 02:16:19,791 - app.main - INFO - Result: transactional (confidence: 0.857) - OTP/verification message detected
+2025-09-01 02:16:20,574 - app.main - INFO - Feedback received - Message: 'your otp is 398473...', Predicted: transactional, Actual: transactional
+2025-09-01 02:16:20,690 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:16:22,044 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:16:23,668 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:16:26,678 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:16:57,930 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:17:27,613 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:17:57,903 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:18:27,598 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:18:57,933 - app.main - INFO - Stats requested: {'spam_count': 2, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 36, 'accuracy': 0.2222222222222222}
+2025-09-01 02:19:19,738 - app.main - INFO - SMS Classification Request: '“Congratulations! You won a $1000 gift card. Click...'
+2025-09-01 02:19:19,739 - app.main - INFO - Result: spam (confidence: 0.750) - Multiple spam indicators found
+2025-09-01 02:19:21,276 - app.main - INFO - Feedback received - Message: '“Congratulations! You won a $1000 gift card. Click...', Predicted: spam, Actual: spam
+2025-09-01 02:19:24,649 - app.main - INFO - Stats requested: {'spam_count': 3, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 37, 'accuracy': 0.24324324324324326}
+2025-09-01 02:19:27,634 - app.main - INFO - Stats requested: {'spam_count': 3, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 37, 'accuracy': 0.24324324324324326}
+2025-09-01 02:19:31,497 - app.main - INFO - SMS Classification Request: 'You have been selected for a free vacation. Reply ...'
+2025-09-01 02:19:31,497 - app.main - INFO - Result: spam (confidence: 0.950) - Multiple spam indicators found
+2025-09-01 02:19:32,565 - app.main - INFO - Feedback received - Message: 'You have been selected for a free vacation. Reply ...', Predicted: spam, Actual: spam
+2025-09-01 02:19:36,654 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 6, 'promotional_count': 1, 'total_classified': 38, 'accuracy': 0.2631578947368421}
+2025-09-01 02:19:40,486 - app.main - INFO - SMS Classification Request: 'Your booking for Flight AI203 is confirmed. PNR: A...'
+2025-09-01 02:19:40,487 - app.main - INFO - Result: transactional (confidence: 0.950) - Legitimate service notification
+2025-09-01 02:19:41,487 - app.main - INFO - Feedback received - Message: 'Your booking for Flight AI203 is confirmed. PNR: A...', Predicted: transactional, Actual: transactional
+2025-09-01 02:19:45,645 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 7, 'promotional_count': 1, 'total_classified': 39, 'accuracy': 0.28205128205128205}
+2025-09-01 02:19:50,125 - app.main - INFO - SMS Classification Request: 'Get 20% off on your first purchase. Use code WELCO...'
+2025-09-01 02:19:50,126 - app.main - INFO - Result: promotional (confidence: 0.762) - Marketing/promotional content
+2025-09-01 02:19:51,943 - app.main - INFO - Feedback received - Message: 'Get 20% off on your first purchase. Use code WELCO...', Predicted: promotional, Actual: promotional
+2025-09-01 02:19:55,106 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 7, 'promotional_count': 2, 'total_classified': 40, 'accuracy': 0.3}
+2025-09-01 02:19:56,708 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 7, 'promotional_count': 2, 'total_classified': 40, 'accuracy': 0.3}
+2025-09-01 02:20:26,358 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul....'
+2025-09-01 02:20:26,359 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 02:20:26,720 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 7, 'promotional_count': 2, 'total_classified': 40, 'accuracy': 0.3}
+2025-09-01 02:20:30,990 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul....', Predicted: spam, Actual: transactional
+2025-09-01 02:20:33,399 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul....'
+2025-09-01 02:20:33,400 - app.main - INFO - Result: transactional (confidence: 0.950) - Legitimate service notification
+2025-09-01 02:20:34,225 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 8, 'promotional_count': 2, 'total_classified': 41, 'accuracy': 0.2926829268292683}
+2025-09-01 02:20:34,289 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul....', Predicted: transactional, Actual: transactional
+2025-09-01 02:20:37,230 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul....'
+2025-09-01 02:20:37,231 - app.main - INFO - Result: transactional (confidence: 0.950) - Legitimate service notification
+2025-09-01 02:20:37,547 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 9, 'promotional_count': 2, 'total_classified': 42, 'accuracy': 0.30952380952380953}
+2025-09-01 02:20:38,022 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul....', Predicted: transactional, Actual: transactional
+2025-09-01 02:20:41,224 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 10, 'promotional_count': 2, 'total_classified': 43, 'accuracy': 0.32558139534883723}
+2025-09-01 02:20:51,098 - app.main - INFO - SMS Classification Request: 'Your electricity bill of Rs. 1200 is generated and...'
+2025-09-01 02:20:51,099 - app.main - INFO - Result: transactional (confidence: 0.667) - OTP/verification message detected
+2025-09-01 02:20:52,185 - app.main - INFO - Feedback received - Message: 'Your electricity bill of Rs. 1200 is generated and...', Predicted: transactional, Actual: transactional
+2025-09-01 02:20:55,692 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 11, 'promotional_count': 2, 'total_classified': 44, 'accuracy': 0.3409090909090909}
+2025-09-01 02:20:57,618 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 11, 'promotional_count': 2, 'total_classified': 44, 'accuracy': 0.3409090909090909}
+2025-09-01 02:21:00,575 - app.main - INFO - SMS Classification Request: 'Celebrate Diwali with our festive deals. Shop now ...'
+2025-09-01 02:21:00,575 - app.main - INFO - Result: promotional (confidence: 0.950) - Commercial business communication
+2025-09-01 02:21:02,225 - app.main - INFO - Feedback received - Message: 'Celebrate Diwali with our festive deals. Shop now ...', Predicted: promotional, Actual: promotional
+2025-09-01 02:21:04,524 - app.main - INFO - Stats requested: {'spam_count': 4, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 45, 'accuracy': 0.35555555555555557}
+2025-09-01 02:21:23,859 - app.main - INFO - SMS Classification Request: 'Win cash instantly! Reply with your details immedi...'
+2025-09-01 02:21:23,859 - app.main - INFO - Result: spam (confidence: 0.400) - Suspicious prize/lottery scam pattern detected
+2025-09-01 02:21:27,774 - app.main - INFO - Feedback received - Message: 'Win cash instantly! Reply with your details immedi...', Predicted: spam, Actual: spam
+2025-09-01 02:21:31,661 - app.main - INFO - Stats requested: {'spam_count': 5, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 46, 'accuracy': 0.3695652173913043}
+2025-09-01 02:21:34,518 - app.main - INFO - Stats requested: {'spam_count': 5, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 46, 'accuracy': 0.3695652173913043}
+2025-09-01 02:21:35,539 - app.main - INFO - SMS Classification Request: 'Limited offer! Get free iPhone by sharing this mes...'
+2025-09-01 02:21:35,540 - app.main - INFO - Result: promotional (confidence: 0.571) - Commercial business communication
+2025-09-01 02:21:38,816 - app.main - INFO - Feedback received - Message: 'Limited offer! Get free iPhone by sharing this mes...', Predicted: promotional, Actual: spam
+2025-09-01 02:21:40,587 - app.main - INFO - SMS Classification Request: 'Limited offer! Get free iPhone by sharing this mes...'
+2025-09-01 02:21:40,587 - app.main - INFO - Result: spam (confidence: 0.600) - Multiple spam indicators found
+2025-09-01 02:21:41,489 - app.main - INFO - Feedback received - Message: 'Limited offer! Get free iPhone by sharing this mes...', Predicted: spam, Actual: spam
+2025-09-01 02:21:42,030 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 02:21:44,680 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 02:22:04,804 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 02:22:34,506 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 02:22:34,680 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 02:23:05,640 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 02:23:35,908 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 02:24:05,618 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 04:31:47,244 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 04:31:48,018 - app.main - INFO - Stats requested: {'spam_count': 7, 'transactional_count': 11, 'promotional_count': 3, 'total_classified': 48, 'accuracy': 0.375}
+2025-09-01 04:31:54,554 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:31:54,555 - app.main - INFO - Result: transactional (confidence: 0.950) - Legitimate service notification
+2025-09-01 04:31:56,263 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: transactional, Actual: spam
+2025-09-01 04:31:57,079 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:31:57,079 - app.main - INFO - Result: spam (confidence: 0.600) - Multiple spam indicators found
+2025-09-01 04:31:58,049 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:31:58,609 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:31:58,610 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:31:59,398 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 12, 'promotional_count': 3, 'total_classified': 50, 'accuracy': 0.36}
+2025-09-01 04:31:59,644 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:00,411 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:00,411 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:01,266 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 13, 'promotional_count': 3, 'total_classified': 51, 'accuracy': 0.35294117647058826}
+2025-09-01 04:32:02,295 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:02,296 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:02,840 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 13, 'promotional_count': 3, 'total_classified': 51, 'accuracy': 0.35294117647058826}
+2025-09-01 04:32:03,793 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:03,794 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:06,169 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 13, 'promotional_count': 3, 'total_classified': 51, 'accuracy': 0.35294117647058826}
+2025-09-01 04:32:08,243 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:08,244 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:09,367 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:09,935 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:09,936 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:12,573 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 14, 'promotional_count': 3, 'total_classified': 52, 'accuracy': 0.34615384615384615}
+2025-09-01 04:32:33,695 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:33,695 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:36,119 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 14, 'promotional_count': 3, 'total_classified': 52, 'accuracy': 0.34615384615384615}
+2025-09-01 04:32:37,321 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 14, 'promotional_count': 3, 'total_classified': 52, 'accuracy': 0.34615384615384615}
+2025-09-01 04:32:39,717 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:39,718 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:40,993 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:44,184 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 15, 'promotional_count': 3, 'total_classified': 53, 'accuracy': 0.33962264150943394}
+2025-09-01 04:32:44,341 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:44,341 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:45,486 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:46,121 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:46,304 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:46,512 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:46,707 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:48,476 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:48,476 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:48,737 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 20, 'promotional_count': 3, 'total_classified': 58, 'accuracy': 0.3103448275862069}
+2025-09-01 04:32:49,329 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 20, 'promotional_count': 3, 'total_classified': 58, 'accuracy': 0.3103448275862069}
+2025-09-01 04:32:49,522 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 20, 'promotional_count': 3, 'total_classified': 58, 'accuracy': 0.3103448275862069}
+2025-09-01 04:32:49,731 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 20, 'promotional_count': 3, 'total_classified': 58, 'accuracy': 0.3103448275862069}
+2025-09-01 04:32:49,876 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:49,926 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 20, 'promotional_count': 3, 'total_classified': 58, 'accuracy': 0.3103448275862069}
+2025-09-01 04:32:50,513 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:50,513 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:52,433 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:52,888 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:52,889 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:53,122 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 22, 'promotional_count': 3, 'total_classified': 60, 'accuracy': 0.3}
+2025-09-01 04:32:53,770 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:54,419 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:54,419 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:55,670 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 23, 'promotional_count': 3, 'total_classified': 61, 'accuracy': 0.29508196721311475}
+2025-09-01 04:32:55,748 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:56,396 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:56,397 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:56,985 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 24, 'promotional_count': 3, 'total_classified': 62, 'accuracy': 0.2903225806451613}
+2025-09-01 04:32:57,296 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:32:57,824 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:32:57,825 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:32:58,963 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 25, 'promotional_count': 3, 'total_classified': 63, 'accuracy': 0.2857142857142857}
+2025-09-01 04:32:59,677 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 25, 'promotional_count': 3, 'total_classified': 63, 'accuracy': 0.2857142857142857}
+2025-09-01 04:33:04,249 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:33:04,250 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:33:05,936 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 25, 'promotional_count': 3, 'total_classified': 63, 'accuracy': 0.2857142857142857}
+2025-09-01 04:33:08,880 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:33:08,881 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:33:10,538 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: promotional
+2025-09-01 04:33:11,257 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:33:11,257 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:33:12,178 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:33:12,740 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:33:12,740 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:33:13,751 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 26, 'promotional_count': 4, 'total_classified': 65, 'accuracy': 0.27692307692307694}
+2025-09-01 04:33:15,462 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 26, 'promotional_count': 4, 'total_classified': 65, 'accuracy': 0.27692307692307694}
+2025-09-01 04:33:36,979 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 26, 'promotional_count': 4, 'total_classified': 65, 'accuracy': 0.27692307692307694}
+2025-09-01 04:33:40,304 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:33:40,305 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:33:41,513 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 26, 'promotional_count': 4, 'total_classified': 65, 'accuracy': 0.27692307692307694}
+2025-09-01 04:34:01,176 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 26, 'promotional_count': 4, 'total_classified': 65, 'accuracy': 0.27692307692307694}
+2025-09-01 04:34:03,279 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:34:03,280 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:34:04,473 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:34:05,073 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:34:05,074 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:34:07,679 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 27, 'promotional_count': 4, 'total_classified': 66, 'accuracy': 0.2727272727272727}
+2025-09-01 04:34:19,770 - app.main - INFO - SMS Classification Request: 'Get offer upto 50% at dominos...'
+2025-09-01 04:34:19,773 - app.main - INFO - Result: promotional (confidence: 0.889) - Marketing/promotional content
+2025-09-01 04:34:21,072 - app.main - INFO - Feedback received - Message: 'Get offer upto 50% at dominos...', Predicted: promotional, Actual: promotional
+2025-09-01 04:34:24,347 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 27, 'promotional_count': 5, 'total_classified': 67, 'accuracy': 0.2835820895522388}
+2025-09-01 04:34:31,250 - app.main - INFO - Stats requested: {'spam_count': 8, 'transactional_count': 27, 'promotional_count': 5, 'total_classified': 67, 'accuracy': 0.2835820895522388}
+2025-09-01 04:34:51,401 - app.main - INFO - SMS Classification Request: 'You can get your free certificate by clicking thin...'
+2025-09-01 04:34:51,401 - app.main - INFO - Result: spam (confidence: 0.750) - Multiple spam indicators found
+2025-09-01 04:34:52,467 - app.main - INFO - Feedback received - Message: 'You can get your free certificate by clicking thin...', Predicted: spam, Actual: spam
+2025-09-01 04:34:55,669 - app.main - INFO - Stats requested: {'spam_count': 9, 'transactional_count': 27, 'promotional_count': 5, 'total_classified': 68, 'accuracy': 0.29411764705882354}
+2025-09-01 04:35:00,935 - app.main - INFO - Stats requested: {'spam_count': 9, 'transactional_count': 27, 'promotional_count': 5, 'total_classified': 68, 'accuracy': 0.29411764705882354}
+2025-09-01 04:35:06,966 - app.main - INFO - SMS Classification Request: 'you can get free passes for you exes...'
+2025-09-01 04:35:06,967 - app.main - INFO - Result: spam (confidence: 0.950) - Multiple spam indicators found
+2025-09-01 04:35:07,843 - app.main - INFO - Feedback received - Message: 'you can get free passes for you exes...', Predicted: spam, Actual: spam
+2025-09-01 04:35:11,127 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:35:11,128 - app.main - INFO - Stats requested: {'spam_count': 10, 'transactional_count': 27, 'promotional_count': 5, 'total_classified': 69, 'accuracy': 0.30434782608695654}
+2025-09-01 04:35:11,129 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:35:12,328 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:35:13,168 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:35:13,169 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:35:15,582 - app.main - INFO - Stats requested: {'spam_count': 10, 'transactional_count': 28, 'promotional_count': 5, 'total_classified': 70, 'accuracy': 0.3}
+2025-09-01 04:35:45,683 - app.main - INFO - Stats requested: {'spam_count': 10, 'transactional_count': 28, 'promotional_count': 5, 'total_classified': 70, 'accuracy': 0.3}
+2025-09-01 04:36:15,978 - app.main - INFO - Stats requested: {'spam_count': 10, 'transactional_count': 28, 'promotional_count': 5, 'total_classified': 70, 'accuracy': 0.3}
+2025-09-01 04:36:34,233 - app.main - INFO - SMS Classification Request: 'get you wallet ready for hacking...'
+2025-09-01 04:36:34,233 - app.main - INFO - Result: spam (confidence: 0.500) - Multiple spam indicators found
+2025-09-01 04:36:35,291 - app.main - INFO - Feedback received - Message: 'get you wallet ready for hacking...', Predicted: spam, Actual: spam
+2025-09-01 04:36:38,458 - app.main - INFO - Stats requested: {'spam_count': 11, 'transactional_count': 28, 'promotional_count': 5, 'total_classified': 71, 'accuracy': 0.30985915492957744}
+2025-09-01 04:36:45,469 - app.main - INFO - Stats requested: {'spam_count': 11, 'transactional_count': 28, 'promotional_count': 5, 'total_classified': 71, 'accuracy': 0.30985915492957744}
+2025-09-01 04:37:03,929 - app.main - INFO - SMS Classification Request: 'Want a big house at Juhu, click on this link...'
+2025-09-01 04:37:03,932 - app.main - INFO - Result: spam (confidence: 0.950) - Multiple spam indicators found
+2025-09-01 04:37:05,752 - app.main - INFO - Feedback received - Message: 'Want a big house at Juhu, click on this link...', Predicted: spam, Actual: spam
+2025-09-01 04:37:09,018 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 28, 'promotional_count': 5, 'total_classified': 72, 'accuracy': 0.3194444444444444}
+2025-09-01 04:37:15,765 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 28, 'promotional_count': 5, 'total_classified': 72, 'accuracy': 0.3194444444444444}
+2025-09-01 04:37:18,331 - app.main - INFO - SMS Classification Request: 'Want a big house at Juhu, contact Rohan...'
+2025-09-01 04:37:18,332 - app.main - INFO - Result: spam (confidence: 0.950) - Multiple spam indicators found
+2025-09-01 04:37:20,006 - app.main - INFO - Feedback received - Message: 'Want a big house at Juhu, contact Rohan...', Predicted: spam, Actual: promotional
+2025-09-01 04:37:20,829 - app.main - INFO - SMS Classification Request: 'Want a big house at Juhu, contact Rohan...'
+2025-09-01 04:37:20,830 - app.main - INFO - Result: promotional (confidence: 0.600) - Commercial business communication
+2025-09-01 04:37:23,245 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 28, 'promotional_count': 6, 'total_classified': 73, 'accuracy': 0.3150684931506849}
+2025-09-01 04:37:26,254 - app.main - INFO - SMS Classification Request: 'Want a big house at Juhu, contact Rohan...'
+2025-09-01 04:37:26,257 - app.main - INFO - Result: promotional (confidence: 0.600) - Commercial business communication
+2025-09-01 04:37:29,569 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:37:29,570 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:37:30,635 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahul...', Predicted: spam, Actual: transactional
+2025-09-01 04:37:31,403 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 04:37:31,404 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 04:37:33,835 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:37:45,667 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:38:16,021 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:38:45,713 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:39:47,020 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:40:12,842 - app.main - INFO - SMS Classification Request: 'You received Rs. 60000 via UPI from Kunj...'
+2025-09-01 04:40:12,843 - app.main - INFO - Result: transactional (confidence: 0.500) - OTP/verification message detected
+2025-09-01 04:40:15,467 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:40:45,985 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:41:15,677 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:42:10,982 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:43:10,674 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:43:27,466 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:43:45,712 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:44:16,023 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:45:10,714 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:46:11,015 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:47:10,714 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:48:11,031 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:49:10,737 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:50:11,022 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:51:10,712 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:52:11,012 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:53:10,723 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:54:11,032 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:55:10,714 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:56:11,031 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:57:09,298 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:57:15,972 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:57:45,702 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:58:47,014 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 04:59:48,019 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:00:49,029 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:01:28,546 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:01:45,985 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:02:15,677 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:03:10,992 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:04:10,678 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:05:10,984 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:06:10,669 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:07:10,982 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:08:10,722 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:09:11,012 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:10:10,711 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:11:11,001 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:12:04,522 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:12:15,260 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahu...'
+2025-09-01 05:12:15,260 - app.main - INFO - Result: spam (confidence: 0.333) - Multiple spam indicators found
+2025-09-01 05:12:15,496 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 29, 'promotional_count': 6, 'total_classified': 74, 'accuracy': 0.3108108108108108}
+2025-09-01 05:12:16,555 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahu...', Predicted: spam, Actual: transactional
+2025-09-01 05:12:17,413 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahu...'
+2025-09-01 05:12:17,414 - app.main - INFO - Result: transactional (confidence: 0.429) - Legitimate service notification
+2025-09-01 05:12:19,785 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 75, 'accuracy': 0.30666666666666664}
+2025-09-01 05:12:38,932 - app.main - INFO - SMS Classification Request: 'You received Rs. 2504 via UPI from HU...'
+2025-09-01 05:12:38,934 - app.main - INFO - Result: transactional (confidence: 0.500) - OTP/verification message detected
+2025-09-01 05:12:45,458 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 75, 'accuracy': 0.30666666666666664}
+2025-09-01 05:23:18,556 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 75, 'accuracy': 0.30666666666666664}
+2025-09-01 05:23:46,690 - app.main - INFO - SMS Classification Request: 'Get 50% off at dominos...'
+2025-09-01 05:23:46,691 - app.main - INFO - Result: promotional (confidence: 0.950) - Marketing/promotional content
+2025-09-01 05:23:48,264 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 75, 'accuracy': 0.30666666666666664}
+2025-09-01 05:24:08,135 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahul...'
+2025-09-01 05:24:08,136 - app.main - INFO - Result: transactional (confidence: 0.400) - Legitimate service notification
+2025-09-01 05:24:18,261 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 75, 'accuracy': 0.30666666666666664}
+2025-09-01 05:24:48,582 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 75, 'accuracy': 0.30666666666666664}
+2025-09-01 05:25:16,454 - app.main - INFO - SMS Classification Request: 'You have won the cash price of 5000$...'
+2025-09-01 05:25:16,454 - app.main - INFO - Result: spam (confidence: 0.625) - Multiple spam indicators found
+2025-09-01 05:25:18,253 - app.main - INFO - Stats requested: {'spam_count': 12, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 75, 'accuracy': 0.30666666666666664}
+2025-09-01 05:25:29,468 - app.main - INFO - Feedback received - Message: 'You have won the cash price of 5000$...', Predicted: spam, Actual: spam
+2025-09-01 05:25:32,773 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 76, 'accuracy': 0.3157894736842105}
+2025-09-01 05:25:48,567 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 30, 'promotional_count': 6, 'total_classified': 76, 'accuracy': 0.3157894736842105}
+2025-09-01 05:25:56,295 - app.main - INFO - SMS Classification Request: 'your otp is 1234...'
+2025-09-01 05:25:56,296 - app.main - INFO - Result: transactional (confidence: 0.667) - OTP/verification message detected
+2025-09-01 05:26:03,483 - app.main - INFO - Feedback received - Message: 'your otp is 1234...', Predicted: transactional, Actual: transactional
+2025-09-01 05:26:06,774 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 31, 'promotional_count': 6, 'total_classified': 77, 'accuracy': 0.3246753246753247}
+2025-09-01 05:26:18,609 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 31, 'promotional_count': 6, 'total_classified': 77, 'accuracy': 0.3246753246753247}
+2025-09-01 05:26:23,546 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 31, 'promotional_count': 6, 'total_classified': 77, 'accuracy': 0.3246753246753247}
+2025-09-01 05:26:48,711 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 31, 'promotional_count': 6, 'total_classified': 77, 'accuracy': 0.3246753246753247}
+2025-09-01 05:39:28,567 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 31, 'promotional_count': 6, 'total_classified': 77, 'accuracy': 0.3246753246753247}
+2025-09-01 05:39:57,627 - app.main - INFO - SMS Classification Request: 'You received Rs. 250 via UPI from Rahu...'
+2025-09-01 05:39:57,628 - app.main - INFO - Result: transactional (confidence: 0.429) - Legitimate service notification
+2025-09-01 05:39:58,303 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 31, 'promotional_count': 6, 'total_classified': 77, 'accuracy': 0.3246753246753247}
+2025-09-01 05:40:17,198 - app.main - INFO - Feedback received - Message: 'You received Rs. 250 via UPI from Rahu...', Predicted: transactional, Actual: transactional
+2025-09-01 05:40:20,564 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 32, 'promotional_count': 6, 'total_classified': 78, 'accuracy': 0.3333333333333333}
+2025-09-01 05:40:27,204 - app.main - INFO - SMS Classification Request: 'get you wallet ready for hacking...'
+2025-09-01 05:40:27,205 - app.main - INFO - Result: spam (confidence: 0.950) - Multiple spam indicators found
+2025-09-01 05:40:28,338 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 32, 'promotional_count': 6, 'total_classified': 78, 'accuracy': 0.3333333333333333}
+2025-09-01 05:40:48,472 - app.main - INFO - SMS Classification Request: 'get 50% off at dominos...'
+2025-09-01 05:40:48,473 - app.main - INFO - Result: promotional (confidence: 0.950) - Marketing/promotional content
+2025-09-01 05:40:58,624 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 32, 'promotional_count': 6, 'total_classified': 78, 'accuracy': 0.3333333333333333}
+2025-09-01 05:41:28,343 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 32, 'promotional_count': 6, 'total_classified': 78, 'accuracy': 0.3333333333333333}
+2025-09-01 05:41:42,243 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 32, 'promotional_count': 6, 'total_classified': 78, 'accuracy': 0.3333333333333333}
+2025-09-01 05:41:46,557 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 32, 'promotional_count': 6, 'total_classified': 78, 'accuracy': 0.3333333333333333}
+2025-09-01 05:41:58,614 - app.main - INFO - Stats requested: {'spam_count': 13, 'transactional_count': 32, 'promotional_count': 6, 'total_classified': 78, 'accuracy': 0.3333333333333333}

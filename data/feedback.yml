@@ -1,0 +1,462 @@
+- confidence: 0.6141912004613274
+  message_hash: 3428
+  message_snippet: 50% sale at dominos
+  predicted: promotional
+  timestamp: '2025-08-31T23:12:43.659342'
+  user_feedback: correct
+- confidence: 0.4196928834814563
+  message_hash: 5326
+  message_snippet: 'You have won the cash price of 5000. click on the '
+  predicted: transactional
+  timestamp: '2025-08-31T23:13:46.974280'
+  user_feedback: false_positive
+- confidence: 0.40534164119434546
+  message_hash: 4084
+  message_snippet: You have won 600 cash click on the link to clain i
+  predicted: spam
+  timestamp: '2025-08-31T23:14:17.160568'
+  user_feedback: correct
+- confidence: 0
+  message_hash: 6960
+  message_snippet: you got price from trip.com
+  predicted: not_applicable
+  timestamp: '2025-08-31T23:14:41.665639'
+  user_feedback: false_positive
+- confidence: 0
+  message_hash: 6960
+  message_snippet: you got price from trip.com
+  predicted: not_applicable
+  timestamp: '2025-08-31T23:15:14.206221'
+  user_feedback: correct
+- confidence: 0.8650573751909544
+  message_hash: 5592
+  message_snippet: you otp is 123
+  predicted: transactional
+  timestamp: '2025-08-31T23:15:31.531650'
+  user_feedback: correct
+- confidence: 0.9365685256878367
+  message_hash: 6636
+  message_snippet: yout otp is
+  predicted: transactional
+  timestamp: '2025-08-31T23:15:54.490442'
+  user_feedback: correct
+- confidence: 0.9365685256878367
+  message_hash: 6636
+  message_snippet: yout otp is
+  predicted: transactional
+  timestamp: '2025-08-31T23:15:57.733122'
+  user_feedback: correct
+- confidence: 0.9365685256878367
+  message_hash: 6636
+  message_snippet: yout otp is
+  predicted: transactional
+  timestamp: '2025-08-31T23:16:00.732085'
+  user_feedback: correct
+- confidence: 0.9365685256878367
+  message_hash: 6636
+  message_snippet: yout otp is
+  predicted: transactional
+  timestamp: '2025-08-31T23:16:02.878666'
+  user_feedback: correct
+- confidence: 0.5068758600054871
+  message_hash: 8706
+  message_snippet: 'You have won the cash price of 5000. click on the '
+  predicted: transactional
+  timestamp: '2025-08-31T23:17:03.271440'
+  user_feedback: false_positive
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 64509
+  message_length: 22
+  message_snippet: Get 50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T01:55:07.051747'
+  user_feedback: false_positive
+  word_count: 5
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 64509
+  message_length: 22
+  message_snippet: Get 50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T01:55:14.091535'
+  user_feedback: false_positive
+  word_count: 5
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 64509
+  message_length: 22
+  message_snippet: Get 50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T01:58:32.631063'
+  user_feedback: false_negative
+  word_count: 5
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 64509
+  message_length: 22
+  message_snippet: Get 50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T01:58:37.502000'
+  user_feedback: false_negative
+  word_count: 5
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 64509
+  message_length: 22
+  message_snippet: Get 50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T01:58:39.896269'
+  user_feedback: false_negative
+  word_count: 5
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 64509
+  message_length: 22
+  message_snippet: Get 50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T01:58:42.597092'
+  user_feedback: false_negative
+  word_count: 5
+- actual_category: promotional
+  confidence: 0
+  feedback_type: correction
+  message: Get 50% off at dominos
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:06:08.011714'
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 86908
+  message_length: 22
+  message_snippet: Get 50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T02:06:08.022394'
+  user_feedback: false_positive
+  word_count: 5
+- actual_category: promotional
+  confidence: 0
+  feedback_type: correction
+  message: Get  50% off at dominos
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:07:32.710272'
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 92075
+  message_length: 23
+  message_snippet: Get  50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T02:07:32.718279'
+  user_feedback: false_positive
+  word_count: 5
+- actual_category: promotional
+  confidence: 0
+  feedback_type: correction
+  message: Get  50% off at dominos
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:07:37.295881'
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 92075
+  message_length: 23
+  message_snippet: Get  50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T02:07:37.305135'
+  user_feedback: false_positive
+  word_count: 5
+- actual_category: promotional
+  confidence: 0
+  feedback_type: correction
+  message: Get  50% off at dominos
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:07:39.139921'
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 92075
+  message_length: 23
+  message_snippet: Get  50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T02:07:39.147491'
+  user_feedback: false_positive
+  word_count: 5
+- actual_category: transactional
+  confidence: 0
+  feedback_type: correct
+  message: Get  50% off at dominos
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:07:48.089981'
+- confidence: 0.0
+  has_numbers: true
+  has_urls: false
+  message_hash: 92075
+  message_length: 23
+  message_snippet: Get  50% off at dominos
+  predicted: unknown
+  timestamp: '2025-09-01T02:07:48.101687'
+  user_feedback: correct
+  word_count: 5
+- confidence: 0.6666666666666666
+  message: Get the job offer at Google, by clicking at the link and get job instant
+  predicted_category: promotional
+  timestamp: '2025-09-01T02:15:15.195678'
+  user_feedback: spam
+- confidence: 0.5555555555555556
+  message: Get the job offer at Google, by clicking at the link and get job instant
+  predicted_category: spam
+  timestamp: '2025-09-01T02:15:25.552773'
+  user_feedback: spam
+- confidence: 0.95
+  message: get 56% off at fdh
+  predicted_category: promotional
+  timestamp: '2025-09-01T02:15:54.753426'
+  user_feedback: promotional
+- confidence: 0.8333333333333334
+  message: your otp is 398473
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:16:13.447059'
+  user_feedback: transactional
+- confidence: 0.8571428571428571
+  message: your otp is 398473
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:16:15.206227'
+  user_feedback: transactional
+- confidence: 0.8571428571428571
+  message: your otp is 398473
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:16:16.279440'
+  user_feedback: transactional
+- confidence: 0.8571428571428571
+  message: your otp is 398473
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:16:17.606221'
+  user_feedback: transactional
+- confidence: 0.8571428571428571
+  message: your otp is 398473
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:16:18.949896'
+  user_feedback: transactional
+- confidence: 0.8571428571428571
+  message: your otp is 398473
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:16:20.602648'
+  user_feedback: transactional
+- confidence: 0.75
+  message: "\u201CCongratulations! You won a $1000 gift card. Click here to claim\
+    \ now."
+  predicted_category: spam
+  timestamp: '2025-09-01T02:19:21.312552'
+  user_feedback: spam
+- confidence: 0.95
+  message: You have been selected for a free vacation. Reply YES to claim
+  predicted_category: spam
+  timestamp: '2025-09-01T02:19:32.610932'
+  user_feedback: spam
+- confidence: 0.95
+  message: 'Your booking for Flight AI203 is confirmed. PNR: ABC123.'
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:19:41.532991'
+  user_feedback: transactional
+- confidence: 0.7619047619047619
+  message: Get 20% off on your first purchase. Use code WELCOME20.
+  predicted_category: promotional
+  timestamp: '2025-09-01T02:19:51.986502'
+  user_feedback: promotional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul.
+  predicted_category: spam
+  timestamp: '2025-09-01T02:20:31.029602'
+  user_feedback: transactional
+- confidence: 0.95
+  message: You received Rs. 250 via UPI from Rahul.
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:20:34.333219'
+  user_feedback: transactional
+- confidence: 0.95
+  message: You received Rs. 250 via UPI from Rahul.
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:20:38.067671'
+  user_feedback: transactional
+- confidence: 0.6666666666666666
+  message: Your electricity bill of Rs. 1200 is generated and due by 5th Sep.
+  predicted_category: transactional
+  timestamp: '2025-09-01T02:20:52.231213'
+  user_feedback: transactional
+- confidence: 0.95
+  message: Celebrate Diwali with our festive deals. Shop now and save big
+  predicted_category: promotional
+  timestamp: '2025-09-01T02:21:02.274461'
+  user_feedback: promotional
+- confidence: 0.4
+  message: Win cash instantly! Reply with your details immediately.
+  predicted_category: spam
+  timestamp: '2025-09-01T02:21:27.826712'
+  user_feedback: spam
+- confidence: 0.5714285714285714
+  message: Limited offer! Get free iPhone by sharing this message.
+  predicted_category: promotional
+  timestamp: '2025-09-01T02:21:38.866299'
+  user_feedback: spam
+- confidence: 0.6
+  message: Limited offer! Get free iPhone by sharing this message.
+  predicted_category: spam
+  timestamp: '2025-09-01T02:21:41.541624'
+  user_feedback: spam
+- confidence: 0.95
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: transactional
+  timestamp: '2025-09-01T04:31:56.310870'
+  user_feedback: spam
+- confidence: 0.6
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:31:58.107732'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:31:59.686735'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:09.446935'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:41.040609'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:45.538199'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:46.179296'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:46.355005'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:46.580520'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:46.768335'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:49.973648'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:52.492167'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:53.829952'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:55.809085'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:32:57.348863'
+  user_feedback: transactional
+- confidence: 0.5
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:33:10.605392'
+  user_feedback: promotional
+- confidence: 0.3333333333333333
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:33:12.239720'
+  user_feedback: transactional
+- confidence: 0.3333333333333333
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:34:04.528572'
+  user_feedback: transactional
+- confidence: 0.8888888888888888
+  message: Get offer upto 50% at dominos
+  predicted_category: promotional
+  timestamp: '2025-09-01T04:34:21.151732'
+  user_feedback: promotional
+- confidence: 0.75
+  message: You can get your free certificate by clicking think link
+  predicted_category: spam
+  timestamp: '2025-09-01T04:34:52.543431'
+  user_feedback: spam
+- confidence: 0.95
+  message: you can get free passes for you exes
+  predicted_category: spam
+  timestamp: '2025-09-01T04:35:07.926533'
+  user_feedback: spam
+- confidence: 0.3333333333333333
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:35:12.395799'
+  user_feedback: transactional
+- confidence: 0.5
+  message: get you wallet ready for hacking
+  predicted_category: spam
+  timestamp: '2025-09-01T04:36:35.345356'
+  user_feedback: spam
+- confidence: 0.95
+  message: Want a big house at Juhu, click on this link
+  predicted_category: spam
+  timestamp: '2025-09-01T04:37:05.818595'
+  user_feedback: spam
+- confidence: 0.95
+  message: Want a big house at Juhu, contact Rohan
+  predicted_category: spam
+  timestamp: '2025-09-01T04:37:20.068587'
+  user_feedback: promotional
+- confidence: 0.3333333333333333
+  message: You received Rs. 250 via UPI from Rahul
+  predicted_category: spam
+  timestamp: '2025-09-01T04:37:30.698498'
+  user_feedback: transactional
+- confidence: 0.3333333333333333
+  message: You received Rs. 250 via UPI from Rahu
+  predicted_category: spam
+  timestamp: '2025-09-01T05:12:16.622113'
+  user_feedback: transactional
+- confidence: 0.625
+  message: You have won the cash price of 5000$
+  predicted_category: spam
+  timestamp: '2025-09-01T05:25:29.564003'
+  user_feedback: spam
+- confidence: 0.6666666666666666
+  message: your otp is 1234
+  predicted_category: transactional
+  timestamp: '2025-09-01T05:26:03.579176'
+  user_feedback: transactional
+- confidence: 0.42857142857142855
+  message: You received Rs. 250 via UPI from Rahu
+  predicted_category: transactional
+  timestamp: '2025-09-01T05:40:17.321826'
+  user_feedback: transactional

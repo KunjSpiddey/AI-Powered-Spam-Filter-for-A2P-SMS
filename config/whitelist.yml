@@ -1,0 +1,19 @@
+# Whitelist for trusted domains, phrases, and sender IDs.
+# The filter will automatically allow messages containing these.
+
+domains:
+  - "trip.com"
+  - "icicibank.com"
+  - "google.com"
+  - "amazon.com"
+
+phrases:
+  - "your otp is"
+  - "thank you for your order"
+  - "your verification code is"
+  - "payment of inr"
+
+sender_ids: 
+  - "AM-Google"
+  - "VM-ICICIB"
+  - "QP-Amazon"

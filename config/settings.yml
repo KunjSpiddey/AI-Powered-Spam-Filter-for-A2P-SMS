@@ -1,0 +1,8 @@
+# Application settings
+model:
+  model_path: "models/model.pkl"
+  vectorizer_path: "models/vectorizer.pkl"
+
+logging:
+  log_file: "logs/app.log"
+  log_level: "INFO"
